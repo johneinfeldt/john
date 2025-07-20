@@ -1,3 +1,10 @@
+title: "John Einfeldt"
+description: "Finance & Math @ MIT"
+url: "https://johneinfeldt.github.io"
+baseurl: ""  # Leave this blank for user pages like johneinfeldt.github.io
+
+theme: minimal-mistakes-jekyll
+
 author:
   name: "John Einfeldt"
   avatar: "/images/profile.png"
@@ -6,12 +13,23 @@ author:
   email: "johneinf@mit.edu"
   linkedin: "https://www.linkedin.com/in/john-niklas-einfeldt-19851b1bb/"
 
-theme: minimal-mistakes-jekyll
+# Include folders
+include:
+  - _pages
 
+# Enable the sidebar navigation if you have a nav file
 defaults:
   - scope:
       path: ""
+      type: pages
     values:
+      layout: single
+      author_profile: true
       sidebar:
         nav: "main"
 
+# Collections (optional but helpful)
+collections:
+  pages:
+    output: true
+    permalink: /:path/

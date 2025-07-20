@@ -1,7 +1,7 @@
 title: "John Einfeldt"
 description: "Finance & Math @ MIT"
 url: "https://johneinfeldt.github.io"
-baseurl: ""  # Leave this blank for user pages like johneinfeldt.github.io
+baseurl: ""
 
 theme: minimal-mistakes-jekyll
 
@@ -13,11 +13,9 @@ author:
   email: "johneinf@mit.edu"
   linkedin: "https://www.linkedin.com/in/john-niklas-einfeldt-19851b1bb/"
 
-# Include folders
 include:
   - _pages
 
-# Enable the sidebar navigation if you have a nav file
 defaults:
   - scope:
       path: ""

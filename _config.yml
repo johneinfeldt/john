@@ -5,3 +5,13 @@ author:
   location: "Cambridge, MA"
   email: "johneinf@mit.edu"
   linkedin: "https://www.linkedin.com/in/john-niklas-einfeldt-19851b1bb/"
+
+theme: minimal-mistakes-jekyll
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "main"
+

@@ -2,19 +2,21 @@
 layout: home
 title: "Welcome"
 permalink: /
+---
+
 title: "John Einfeldt"
 email: johneinfeldt@example.com
 description: "Finance & Math @ MIT"
-baseurl: "" # leave empty if repo is named johneinfeldt.github.io
+baseurl: ""  # keep this blank if repo is named johneinfeldt.github.io
 url: "https://johneinfeldt.github.io"
 
 author:
-  name   : "John Einfeldt"
-  avatar : "/images/profile.jpg" # make sure this file exists!
-  bio    : "Finance & Math @ MIT"
+  name: "John Einfeldt"
+  avatar: "/images/profile.jpg"  # upload this file in /images
+  bio: "Finance & Math @ MIT"
   location: "Cambridge, MA"
   email: johneinfeldt@example.com
-  linkedin: https://www.linkedin.com/in/yourname/
+  linkedin: https://www.linkedin.com/in/your-link/
 ---
 
 Hi! I am John, a graduate student at MIT, engaged in coursework in finance, mathematics, and statistics. 

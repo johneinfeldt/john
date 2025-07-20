@@ -12,5 +12,3 @@ I completed my undergraduate studies at the Frankfurt School of Finance & Manage
 Quantitative finance aligns closely with the kind of problems I enjoy: fast-paced, thought-provoking, and situated at the intersection of mathematics, economics, and political developments. This page brings together my work and research to offer a first impression of what I find compelling about the field.
 
 In addition, it includes a selection of my current and recent readings, starting in July 2025. They cover topics like political economy, philosophy and, somewhat unexpectedly, neuroscience, which I had once considered studying as an undergrad and was fortunate to explore durther during a semester abroad at Harvard (and plan to continue during my time at MIT). While I also read sources like the WSJ, FT, Economist, and similiar publications, they aren’t listed here.
-
-

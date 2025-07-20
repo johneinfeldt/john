@@ -27,9 +27,3 @@ defaults:
       author_profile: true
       sidebar:
         nav: "main"
-
-# Collections (optional but helpful)
-collections:
-  pages:
-    output: true
-    permalink: /:path/
